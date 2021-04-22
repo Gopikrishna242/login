@@ -1,3 +1,4 @@
+
 INSTALL GO lang 
 ===============
 
@@ -24,3 +25,8 @@ INSTALL GO lang
      go build
      go get github.com/labstack/echo/middleware
      go build main.go
+     
+     I tried all the ways to get this page but i get this errors
+     
+  ![Screenshot (26)](https://user-images.githubusercontent.com/82368153/115692944-11cfc280-a37d-11eb-8af2-92b091ba2099.png)
+ 
