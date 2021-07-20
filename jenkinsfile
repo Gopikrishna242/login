@@ -1,6 +1,6 @@
 @Library('todo') _
 
-roboshop (
+todo (
         COMPONENT             : 'login',
         PROJECT_NAME          : "TODO",
         SLAVE_LABEL           : "GOLANG",
